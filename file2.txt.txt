@@ -1,6 +1,5 @@
 hi file2
 
 
-duedusudjbsd
+this is file 2
 
-this is very important file..
